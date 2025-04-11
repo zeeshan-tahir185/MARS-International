@@ -15,9 +15,9 @@ const Navbar = () => {
   const menuItems = [
     { id: 'home', label: 'Home' },
     { id: 'about', label: 'About Us' },
-    { id: 'mission', label: 'Our Mission' },
-    { id: 'vision', label: 'Our Vision' },
-    { id: 'services', label: 'Our Services' },
+    { id: 'our-mission', label: 'Our Mission' },
+    { id: 'our-vision', label: 'Our Vision' },
+    { id: 'our-services', label: 'Our Services' },
     { id: 'contact', label: 'Contact Us' },
   ];
 
