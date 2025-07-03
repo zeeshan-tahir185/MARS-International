@@ -5,8 +5,8 @@ const contactDetails = [
   {
     icon: <FaPhoneAlt size={22} />,
     label: 'Phone',
-    value: '+92 51-5150490',
-    link: 'tel:+92515150490',
+    value: '0516161763',
+    link: 'tel:0516161763',
   },
   {
     icon: <FaEnvelope size={22} />,
